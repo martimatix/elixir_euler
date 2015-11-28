@@ -1,0 +1,5 @@
+# Ignore login details
+login.txt
+
+# Ignore system files
+*.DS_Store
